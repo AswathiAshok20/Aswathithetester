@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Aswathithetester
+- 👀 I’m interested in testing software ...
+- 🌱 I’m currently wOrking as QA Engineer  ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me ✨ aswathiachu969@gmail.com  ..
+<!---
+Aswathithetester/Aswathithetester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
